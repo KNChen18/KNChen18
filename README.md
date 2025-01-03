@@ -21,4 +21,14 @@ Here are some ideas to get you started:
 - ⚡ And during my free time I enjoy playing a wide array of video games, taking photos, learning new languages, and exploring new foods!
 - 📫 The best way to reach me is through my email KNChen18@hotmail.com
 
+
 - Currently Working On: TryHackMe Cybersecurity 101 & SOC Level 1
+
+# Organizations
+
+**Current affiliated organizations:**
+- WiCys (Women in Cybersecurity)
+- UWB Grayhats (Cybersecurity Club)
+
+**Past organization affiliations**
+- UWB ACM (Association of Computing Machinery) | Served as the Marketing and Graphics lead |

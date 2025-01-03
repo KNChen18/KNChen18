@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
 **Past organization affiliations**
 - UWB ACM (Association of Computing Machinery) | Served as the Marketing and Graphics lead |
+- UWB VSA (Junior Executive Officer)

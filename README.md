@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 The best way to reach me is through my email KNChen18@hotmail.com
 
 
-- Currently Working On: TryHackMe Cybersecurity 101 & SOC Level 1
+- Currently Working On: ISC2 CC Certification
 
 # Organizations
 
